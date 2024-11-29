@@ -16,4 +16,4 @@ Projeto feito com auxilio de IA e [StackOverflow](https://stackoverflow.com).
 
 ## IMAGEM DO CODIGO
 
-![IMAGEM DO CODIGO](Codigo.jpeg.png)
+![IMAGEM DO CODIGO](Codigo.png)
